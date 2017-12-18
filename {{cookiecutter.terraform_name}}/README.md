@@ -6,8 +6,8 @@
 
 ```
 terraform init -backend-config=backend.conf
-terraform plan -var-file={{cookiecutter.var_file}}
-terraform apply -var-file={{cookiecutter.var_file}}
+terraform plan -var-file={{cookiecutter.var_file}}.tfvars
+terraform apply -var-file={{cookiecutter.var_file}}.tfvars
 ```
 
 
