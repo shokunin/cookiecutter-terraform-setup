@@ -1,0 +1,14 @@
+{
+  "full_name": "Chris Mague",
+  "email": "github@mague.com",
+  "terraform_name": "testrole",
+  "github_user": "maguec",
+  "short_description": "description goes here",
+  "release_date": "2017-10-12",
+  "terraform_version": "0.11.1",
+  "state_bucket": "S3BucketName",
+  "aws_region": "us-west-1",
+  "aws_profile": "myprofile",
+  "var_file": "prod",
+  "company_name": "Shokunin Consulting LLC"
+}
